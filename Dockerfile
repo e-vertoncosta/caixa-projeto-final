@@ -1,2 +1,2 @@
-FROM evertoncostass/repo01/aula4.2
+FROM httpd
 COPY temp.txt /
